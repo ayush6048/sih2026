@@ -1,0 +1,102 @@
+[
+  {
+    "id": "agri_equipment_technician",
+    "title": "Agricultural Equipment Technician",
+    "description": "Repairs and maintains agricultural machinery such as tractors, harvesters, and irrigation pumps.",
+    "required_education": ["8th", "10th", "12th class", "10th class"],
+    "skills": ["machine maintenance", "basic electrical", "agricultural equipment", "machine work"],
+    "preferred_interests": ["machine repair", "agriculture", "farming"],
+    "training_ids": ["agri_machine_basic"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "motor_pump_repair",
+    "title": "Motor & Pump Repair Technician",
+    "description": "Installs and repairs water pumps and electrical motors.",
+    "required_education": ["10th class", "12th class"],
+    "skills": ["basic electrical", "machine work", "pump repair"],
+    "preferred_interests": ["machine repair", "electrical work"],
+    "training_ids": ["motor_repair_course"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "solar_technician",
+    "title": "Solar Panel Installation Technician",
+    "description": "Installs and maintains solar power systems.",
+    "required_education": ["10th class", "12th class", "ITI"],
+    "skills": ["basic electrical", "installation", "roofing"],
+    "preferred_interests": ["green energy", "electrical work"],
+    "training_ids": ["solar_install_course"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "electrical_technician",
+    "title": "Electrical Technician",
+    "description": "Performs general electrical wiring, repair, and maintenance for domestic and commercial buildings.",
+    "required_education": ["10th class", "12th class", "ITI"],
+    "skills": ["basic electrical", "wiring", "safety protocols"],
+    "preferred_interests": ["electrical work", "construction"],
+    "training_ids": ["electrical_basic_course"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "welding_technician",
+    "title": "Welding Technician",
+    "description": "Joins and repairs metal parts using various welding techniques.",
+    "required_education": ["8th", "10th class"],
+    "skills": ["welding", "metal work", "machine work"],
+    "preferred_interests": ["fabrication", "construction", "machine repair"],
+    "training_ids": ["welding_basic_course"],
+    "nsqf_level": "Level 3"
+  },
+  {
+    "id": "two_wheeler_mechanic",
+    "title": "Two-Wheeler Service Technician",
+    "description": "Services, repairs, and maintains motorcycles and scooters.",
+    "required_education": ["10th class"],
+    "skills": ["machine work", "engine repair", "basic electrical"],
+    "preferred_interests": ["automobiles", "machine repair"],
+    "training_ids": ["two_wheeler_repair_course"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "plumbing_technician",
+    "title": "Plumbing Technician",
+    "description": "Installs and repairs water supply lines and drainage systems.",
+    "required_education": ["8th", "10th class"],
+    "skills": ["pipe fitting", "water systems", "tools usage"],
+    "preferred_interests": ["construction", "water systems"],
+    "training_ids": ["plumbing_basic_course"],
+    "nsqf_level": "Level 3"
+  },
+  {
+    "id": "mobile_repair_technician",
+    "title": "Mobile Phone Repair Technician",
+    "description": "Diagnoses and repairs hardware and software issues in mobile phones.",
+    "required_education": ["10th class", "12th class"],
+    "skills": ["electronics", "soldering", "diagnostics"],
+    "preferred_interests": ["electronics", "technology"],
+    "training_ids": ["mobile_repair_course"],
+    "nsqf_level": "Level 4"
+  },
+  {
+    "id": "construction_technician",
+    "title": "Construction Technician",
+    "description": "Assists in building structures, mixing concrete, and site preparation.",
+    "required_education": ["None", "8th", "10th class"],
+    "skills": ["manual labor", "tools usage", "masonry"],
+    "preferred_interests": ["construction", "building"],
+    "training_ids": ["masonry_basic_course"],
+    "nsqf_level": "Level 3"
+  },
+  {
+    "id": "farm_equipment_operator",
+    "title": "Farm Equipment Operator",
+    "description": "Operates advanced farming equipment and heavy machinery.",
+    "required_education": ["8th", "10th class"],
+    "skills": ["farming", "driving", "machine work"],
+    "preferred_interests": ["agriculture", "farming", "driving"],
+    "training_ids": ["agri_machine_operator"],
+    "nsqf_level": "Level 4"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "agri_machine_basic",
+    "title": "Agricultural Equipment Maintenance",
+    "description": "Learn to diagnose, repair and maintain common agricultural machinery like tractors and tillers.",
+    "skills_developed": ["equipment maintenance", "basic electrical", "machine troubleshooting"],
+    "duration": "3 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["agri_equipment_technician"]
+  },
+  {
+    "id": "motor_repair_course",
+    "title": "Motor & Pump Repair Basics",
+    "description": "Practical training on domestic and agricultural water pumps and motors.",
+    "skills_developed": ["pump repair", "basic electrical", "winding"],
+    "duration": "2 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["motor_pump_repair"]
+  },
+  {
+    "id": "solar_install_course",
+    "title": "Solar Panel Installation",
+    "description": "Comprehensive guide to setting up off-grid and on-grid solar systems.",
+    "skills_developed": ["solar installation", "basic electrical", "safety"],
+    "duration": "3 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["solar_technician"]
+  },
+  {
+    "id": "electrical_basic_course",
+    "title": "Basic Electrical Wiring",
+    "description": "Foundation course for domestic and commercial electrical wiring and safety.",
+    "skills_developed": ["wiring", "electrical safety", "circuit design"],
+    "duration": "6 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["electrical_technician"]
+  },
+  {
+    "id": "welding_basic_course",
+    "title": "Welding and Fabrication",
+    "description": "Master arc and gas welding techniques for industrial and domestic applications.",
+    "skills_developed": ["welding", "fabrication", "metal work"],
+    "duration": "3 months",
+    "nsqf_level": "Level 3",
+    "career_ids": ["welding_technician"]
+  },
+  {
+    "id": "two_wheeler_repair_course",
+    "title": "Two-Wheeler Service & Repair",
+    "description": "Hands-on course for diagnosing and repairing modern motorcycles.",
+    "skills_developed": ["engine repair", "diagnostics", "basic electrical"],
+    "duration": "4 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["two_wheeler_mechanic"]
+  },
+  {
+    "id": "plumbing_basic_course",
+    "title": "Professional Plumbing",
+    "description": "Training in water supply systems, pipe fitting, and sanitation.",
+    "skills_developed": ["pipe fitting", "water systems", "tools usage"],
+    "duration": "3 months",
+    "nsqf_level": "Level 3",
+    "career_ids": ["plumbing_technician"]
+  },
+  {
+    "id": "mobile_repair_course",
+    "title": "Mobile Phone Repair",
+    "description": "Advanced training in mobile motherboard diagnostics and software flashing.",
+    "skills_developed": ["soldering", "electronics diagnostics", "software repair"],
+    "duration": "4 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["mobile_repair_technician"]
+  },
+  {
+    "id": "masonry_basic_course",
+    "title": "Basic Masonry and Construction",
+    "description": "Learn bricklaying, plastering, and concrete mixing.",
+    "skills_developed": ["masonry", "concrete mixing", "measurement"],
+    "duration": "3 months",
+    "nsqf_level": "Level 3",
+    "career_ids": ["construction_technician"]
+  },
+  {
+    "id": "agri_machine_operator",
+    "title": "Farm Machinery Operation",
+    "description": "Practical driving and operation course for tractors and harvesters.",
+    "skills_developed": ["driving", "machine operation", "field management"],
+    "duration": "2 months",
+    "nsqf_level": "Level 4",
+    "career_ids": ["farm_equipment_operator"]
+  }
+]
