@@ -56,9 +56,11 @@ async def process_conversation(req: ConversationRequest):
             "is_profile_complete": ai_result.get("is_profile_complete", False)
         }
     except Exception as e:
-        print(f"Error processing AI message: {e}")
+        import traceback
+        err_msg = traceback.format_exc()
+        print(f"Error processing AI message: {err_msg}")
         return {
-            "reply": "Sorry, I couldn't process that. Please try again.",
+            "reply": f"Sorry, I couldn't process that. Error: {str(e)}",
             "extracted_data": {},
             "profile": conv["profile"],
             "next_field": None,
