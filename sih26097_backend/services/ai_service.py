@@ -31,7 +31,7 @@ class AIResponse(BaseModel):
 
 class AIService:
     def __init__(self):
-        self.model_name = "gemini-2.5-flash"
+        self.model_name = "gemini-1.5-flash"
 
     def process_message(self, user_message: str, current_profile: dict, chat_history: List[dict]) -> dict:
         if not client:
